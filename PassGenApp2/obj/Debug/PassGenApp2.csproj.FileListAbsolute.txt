@@ -1,0 +1,10 @@
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\bin\Debug\PassGenApp2.exe.config
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\bin\Debug\PassGenApp2.exe
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\bin\Debug\PassGenApp2.pdb
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.csprojAssemblyReference.cache
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.Form1.resources
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.Properties.Resources.resources
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.csproj.GenerateResource.cache
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.csproj.CoreCompileInputs.cache
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.exe
+C:\Users\sncar\source\repos\PassGenApp2\PassGenApp2\obj\Debug\PassGenApp2.pdb
